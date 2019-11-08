@@ -1,0 +1,28 @@
+nav {
+  background: #4a90e2;
+  height: 64px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 42px;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+}
+
+nav div p {
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+nav #profile {
+  display: inline-block;
+  background: #fff;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
